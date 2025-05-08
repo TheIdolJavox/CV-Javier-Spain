@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Oswaldo España</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cv-container">
+        <div class="cv-header">
+            <div class="cv-photo">
+                <img src="tu-foto.jpg" alt="Oswaldo España">
+            </div>
+            <div class="cv-info">
+                <h1>Oswaldo Javier España Trujillo</h1>
+                <p><strong>PERFIL</strong><br> Técnico en Informática. Buscando un trabajo que me permita complementar mis estudios con las acciones que realizo. Me caracteriza por el trabajo en equipo y el control en situaciones tensas. Estoy comprometido a dar los mejores resultados.</p>
+                <p><strong>CONTACTO</strong><br> Teléfono: 332-210-0612<br>Correo electrónico: javierespan88@gmail.com<br> Domicilio: Planetes #487, Loma Bonita Ejidal, 45085</p>
+            </div>
+        </div>
+        
+        <div class="cv-experience">
+            <h2>EXPERIENCIA LABORAL</h2>
+            <div class="experience-item">
+                <h3>Auxiliar en Farmacia</h3>
+                <p>Hospital de Padua, Guadalajara, Jalisco<br> 19 de Julio de 2023 - Actualidad</p>
+                <p>Control de inventario de materiales, equipos y medicamentos, manejo y estructuración de cuentas de pacientes, atención directa a enfermos y cuerpo médico, capacitación a cuerpo médico para uso de computadoras.</p>
+            </div>
+            <div class="experience-item">
+                <h3>Diseñador web (Beca)</h3>
+                <p>Versa Muebles por Orden, Guadalajara, Jalisco<br> 25 de Enero de 2021 - 17 de Junio de 2021</p>
+                <p>Creación y mantenimiento de páginas web. Entre las tareas realizadas se encuentran actualizaciones de precios en tiendas web, configuración de chatbots. Gestión de base de datos en páginas web.</p>
+            </div>
+            <div class="experience-item">
+                <h3>Asistente de Jefe de Proyecto (Beca)</h3>
+                <p>Jefatura de proyecto de Informática CONALEP Guadalajara 2, Guadalajara, Jalisco<br> 4 de Febrero de 2020 - 4 de Agosto de 2020</p>
+                <p>Supervisión y mantenimiento de equipos de cómputo en laboratorios escolares. Informes y revisiones de equipos y soluciones a fallas de equipos.</p>
+            </div>
+        </div>
+
+        <div class="cv-education">
+            <h2>FORMACIÓN ACADÉMICA</h2>
+            <div class="education-item">
+                <h3>CICEI</h3>
+                <p>Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)<br> Agosto de 2021 - Actualidad</p>
+                <p>Ingeniería en Informática</p>
+            </div>
+            <div class="education-item">
+                <h3>CONALEP</h3>
+                <p>Colegio Nacional de Educación Profesional Técnica CONALEP Guadalajara 2<br> Agosto de 2018 - Junio de 2021</p>
+                <p>Profesional Técnico Bachiller en Informática</p>
+            </div>
+        </div>
+
+        <div class="cv-skills">
+            <h2>CARACTERÍSTICAS Y COMPETENCIAS CLAVE</h2>
+            <ul>
+                <li>Agradable, amable y orientado al servicio.</li>
+                <li>Escucha activa.</li>
+                <li>Proactividad.</li>
+                <li>Trabajo en equipo.</li>
+                <li>Adaptabilidad.</li>
+                <li>Organización y responsabilidad.</li>
+                <li>Comunicación clara.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
