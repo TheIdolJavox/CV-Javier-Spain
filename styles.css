@@ -24,8 +24,8 @@ body {
 
 .cv-photo img {
     width: 120px;
-    height: 120px;
-    border-radius: 50%;
+    height: 160px;
+    border-radius: 30%;
     margin-right: 20px;
 }
 
