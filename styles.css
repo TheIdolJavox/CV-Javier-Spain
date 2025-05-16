@@ -88,6 +88,33 @@ h2 {
     font-size: 14px;
 }
 
+.cv-certification {
+    margin-top: 30px;
+}
+
+.cv-certification h2 {
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+.certification-item {
+    margin-bottom: 20px;
+}
+
+.certification-item h3 {
+    font-size: 18px;
+    color: #2e2e2e;
+    margin-bottom: 5px;
+}
+
+.certification-item p {
+    margin: 0;
+    font-size: 15px;
+}
+
+
 @media screen and (max-width: 768px) {
     .cv-container {
         width: 90%;
